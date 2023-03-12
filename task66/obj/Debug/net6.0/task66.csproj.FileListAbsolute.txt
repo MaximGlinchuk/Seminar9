@@ -1,0 +1,15 @@
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\bin\Debug\net6.0\task66.exe
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\bin\Debug\net6.0\task66.deps.json
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\bin\Debug\net6.0\task66.runtimeconfig.json
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\bin\Debug\net6.0\task66.dll
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\bin\Debug\net6.0\task66.pdb
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.csproj.AssemblyReference.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.AssemblyInfoInputs.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.AssemblyInfo.cs
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.csproj.CoreCompileInputs.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.dll
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\refint\task66.dll
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.pdb
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\task66.genruntimeconfig.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson9\task66\obj\Debug\net6.0\ref\task66.dll
